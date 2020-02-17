@@ -1,4 +1,4 @@
-# ppp_everyday
+# ppp_pratices
 
 A new Flutter project.
 

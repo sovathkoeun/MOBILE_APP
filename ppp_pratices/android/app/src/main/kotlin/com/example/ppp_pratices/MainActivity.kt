@@ -1,4 +1,4 @@
-package com.example.ppp_everyday
+package com.example.ppp_pratices
 
 import android.os.Bundle
 
